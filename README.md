@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado p
 
 ## 🌟 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando na Digitro(https://github.com/igorfelixx/NomeDoProjeto)
+- 🔭 Atualmente estou trabalhando na Digitro(https://github.com/igorfelixx)
 - 🌱 Estou aprendendo DevOps e explorando o mundo da IA
 - 👯 Estou procurando colaborar em projetos de código aberto
 - 💬 Pergunte-me sobre JavaScript, Python e Machine Learning

@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado p
 
 ## 💼 Projetos
 
-- [CALL-CONTROL](https://github.com/igorfelixx/frontend): Um projeto em TypeScript que utiliza socket io para se comunicar com o back end.
+- [CALL-CONTROL](https://github.com/igorfelixx/front-end): Um projeto em TypeScript que utiliza socket io para se comunicar com o back end.
 - [CHAT-APP](https://github.com/igorfelixx/chat-app): Um CHAT-APP em TypeScript, TailWind, com testes unitarios feitos com STORY-BOOK.
 
 ## 🌐 Conecte-se Comigo

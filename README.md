@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado p
 - 👯 Estou procurando colaborar em projetos de código aberto
 - 💬 Pergunte-me sobre JavaScript, Python e Machine Learning
 - 📫 Como me encontrar: [euigorfelix@gmail.com](mailto:euigorfelix@gmail.com)
-- 📄 Conheça minhas experiências [Currículo](www.linkedin.com/in/igor-felix-195096257)
+- 📄 Conheça minhas experiências [Currículo](https://www.linkedin.com/in/igor-felix-195096257)
 
 ## 🚀 Habilidades
 
@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado p
 
 ## 🌐 Conecte-se Comigo
 
-- [LinkedIn](www.linkedin.com/in/igor-felix-195096257)
+- [LinkedIn](https://www.linkedin.com/in/igor-felix-195096257)
 - [Site Pessoal](Working...)
 
 ⭐️ De [igorfelixx](https://github.com/igorfelixx)
